@@ -1,0 +1,16 @@
+{
+  "name": "notasmd",
+  "version": "1.0.0",
+  "description": "sistema para pasasr de HTML a Markdown-mark",
+  "keywords": [
+    "Markdown-mark",
+    "HTML"
+  ],
+  "license": "MIT",
+  "author": "lancast",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  }
+}
