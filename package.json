@@ -10,7 +10,14 @@
   "author": "lancast",
   "type": "module",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lancastmx/Markdown"
+  },
   "scripts": {
     "test": "run test"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
