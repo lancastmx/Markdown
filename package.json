@@ -10,14 +10,13 @@
   "author": "lancast",
   "type": "module",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lancastmx/Markdown"
-  },
+  "repository": "lancast/notasmd",
   "scripts": {
+    "dev": "live-server src",
     "test": "run test"
   },
   "devDependencies": {
+    "live-server": "^1.2.2",
     "nodemon": "^3.1.14"
   }
 }
